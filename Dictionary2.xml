@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Магазин одежды -->
+<store>
+    <!-- Хлебобулочные изделия -->
+    <department name_eng = "Bakery" name_rus = "Хлеб">
+        <product id = "1" name_eng = "Loaf" name_rus = "Батон" />
+        <product id = "2" name_eng = "Cake" name_rus = "Пончик" />
+        <product id = "3" name_eng = "Cookie" name_rus = "Печенье" />
+    </department>
+    <!-- Молочная продукция -->
+    <department name_eng = "Milk" name_rus = "Молоко">
+        <product id = "4" name_eng = "Milk" name_rus = "Молоко" />
+        <product id = "5" name_eng = "Ice cream" name_rus = "Мороженное" />
+        <product id = "6" name_eng = "Yoghurt" name_rus = "Йогурт" />
+    </department>
+        <!-- Овощи -->
+    <department name_eng = "Vegetables" name_rus = "Овощи">
+        <product id = "7" name_eng = "Carrot" name_rus = "Морковь" />
+        <product id = "8" name_eng = "Tomato" name_rus = "Помидор" />
+        <product id = "9" name_eng = "Cucumber" name_rus = "Огурец" />
+    </department>
+    <!-- Фрукты -->
+    <department name_eng = "Fruit" name_rus = "Фрукты">
+        <product id = "10" name_eng = "Apple" name_rus = "Яблоко" />
+        <product id = "11" name_eng = "Orange" name_rus = "Апельсин" />
+        <product id = "12" name_eng = "Banana" name_rus = "Банан" />
+    </department>
+        <!-- Крупы и макаронные изделия -->
+    <department name_eng = "Groats" name_rus = "Крупы и макароны">
+        <product id = "13" name_eng = "Pasta" name_rus = "Макароны" />
+        <product id = "14" name_eng = "Buckwheat" name_rus = "Греча" />
+        <product id = "15" name_eng = "Rice" name_rus = "Рис" />
+    </department>
+    <!-- Консервация -->
+    <department name_eng = "Conserve" name_rus = "Консервация">
+        <product id = "16" name_eng = "Stew" name_rus = "Тушенка" />
+        <product id = "17" name_eng = "Jam" name_rus = "Варенье" />
+        <product id = "18" name_eng = "Sprats" name_rus = "Шпроты" />
+    </department>
+        <!-- Полуфабрикаты -->
+    <department name_eng = "Semi-finished products" name_rus = "Полуфабрикаты">
+        <product id = "19" name_eng = "Nuggets" name_rus = "Наггетсы" />
+        <product id = "20" name_eng = "Pancakes" name_rus = "Блины" />
+        <product id = "21" name_eng = "Pizza" name_rus = "Пицца" />
+    </department>
+    <!-- Алкоголь -->
+    <department name_eng = "Alcohol" name_rus = "Алкоголь">
+        <product id = "22" name_eng = "Wine" name_rus = "Вино" />
+        <product id = "23" name_eng = "Vodka" name_rus = "Водка" />
+        <product id = "24" name_eng = "Whiskey" name_rus = "Виски" />
+    </department>
+        <!-- Мясные изделия -->
+    <department name_eng = "Meat" name_rus = "Мясо">
+        <product id = "25" name_eng = "Steak" name_rus = "Отбивная" />
+        <product id = "26" name_eng = "Chicken" name_rus = "Курица" />
+        <product id = "27" name_eng = "Sausage" name_rus = "Сосиски" />
+    </department>
+    <!-- Напитки -->
+    <department name_eng = "Drink" name_rus = "Напитки">
+        <product id = "28" name_eng = "Water" name_rus = "Вода" />
+        <product id = "29" name_eng = "Juice" name_rus = "Сок" />
+        <product id = "30" name_eng = "Tea" name_rus = "Чай" />
+    </department>
+</store>
