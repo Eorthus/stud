@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Магазин одежды -->
-<store
+<store>
     <!-- Хлебобулочные изделия -->
     <department name_eng = "Bakery" name_rus = "Хлеб">
         <product id = "1" name_eng = "Loaf" name_rus = "Батон" />
