@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Магазин одежды -->
+<store>
+    <!-- Одежда -->
+    <department name_eng = "Clothing" name_rus = "Одежда">
+        <product id = "1" name_eng = "Shirt" name_rus = "Рубашка" />
+        <product id = "2" name_eng = "Pants" name_rus = "Брюки" />
+    </department>
+    <!-- Обувь -->
+    <department name_eng = "Shoes" name_rus = "Обувь">
+        <product id = "101" name_eng = "Sneakers" name_rus = "Кеды" />
+        <product id = "102" name_eng = "Womens_shoes" name_rus = "Туфли" />
+    </department>
+</store>
